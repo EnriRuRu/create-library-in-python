@@ -1,41 +1,38 @@
 # NUMERITOS
 
-Te damos la bienvenida a la librería 'Numeritos'.
+We welcome you to the 'Numeritos' bookstore.
 
-Muchas gracias por tu interés 😊
+Thank you very much for your interest 😊
 
-Te invitamos a probar nuestra librería, un proyecto global que quiere facilitarle la vida a l@s científic@s de datos a través de un conjunto de funciones originales para Python.
+We invite you to try our library, a global project that wants to make life easier for data scientists through a set of original functions for Python.
 
 
 ---
 
 ### Introducción:
+This project was born from the collaboration between the students of the Data Science BootCamp of The Bridge - Digital Talent Accelerator, from the class of June 2022.
 
-Este proyecto nace de la colaboración entre los alumnos del BootCamp de Data Science de The Bridge - Digital Talent Accelerator, de la promoción de junio del 2022.
+We have shared functions that each one has been developing throughout the course for their individual projects.
 
-Hemos puesto en común funciones que cada uno ha ido desarrollando a lo largo del curso para sus proyectos individuales. 
+We have managed to group 54 very useful functions for tasks related to:
+> data visualization
+>
+> data processing
+>
+> Machine Learning
 
-Hemos logrado agrupar 54 funciones muy útiles para tareas relativas a:
-
-  > visualización de datos
-  >
-  > procesado de datos
-  >
-  > Machine Learning
-
-
-Estos pedazos de código encapsulado nos han resultado muy útiles a lo largo de nuestra formación, y por eso queremos compartirlos con todas las personas del fascinante mundo de los datos 🔮
+These pieces of encapsulated code have been very useful to us throughout our training, and that is why we want to share them with all the people in the fascinating world of data.🔮
 
 
 ---
 
-### Qué contiene esta librería: 
+### What does this library contain: 
 
-Te ofrecemos las siguientes funciones:
+We offer you the following functions:
 
 
 
-##### Visualización
+##### Visualización:
 
 * feature_visual
 * grafico_goscatter
@@ -46,7 +43,7 @@ Te ofrecemos las siguientes funciones:
 * graf_displot
 
 
-##### Transformación de datos
+##### data transformation:
 
 * time_now
 * sustituye_texto
@@ -89,7 +86,7 @@ Te ofrecemos las siguientes funciones:
 
 ***
 
-### Equipo:
+### Team:
 
 [Laura Barreda](https://github.com/laurabarredaagusti)
 
@@ -122,10 +119,10 @@ Te ofrecemos las siguientes funciones:
 
 ----
 
-## Dependencias principales
+##main dependencies
 
 
-Las librerías que hemos ido utilizando durante el desarrollo son:
+The libraries that we have been using during the development are:
 
 
 * *CV2*
